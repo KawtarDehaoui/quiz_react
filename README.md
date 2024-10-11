@@ -1,3 +1,7 @@
+# React Quiz
+
+This is a simple educational quiz in french built with React that tests knowledge about React and its features. Users can answer questions related to React's core concepts, components, and lifecycle methods. The app is designed to help developers solidify their understanding of React in an interactive way.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
